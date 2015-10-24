@@ -16,15 +16,18 @@ Require Visual Studio 2013 / 2015
 - Run **_build_vs2015.bat** to generate VS2015 project
 
 ## Screenshots
-__Input__  
+__Input: Initial Step__  
 ![STEP 0](/screenshots/STEP0.png?raw=true)
 
-__Output__  
+__Output__
+Step 1:  
 ![STEP 1](/screenshots/STEP1.png?raw=true)
+Step 2:  
 ![STEP 2](/screenshots/STEP2.png?raw=true)
+Step 3:  
 ![STEP 3](/screenshots/STEP3.png?raw=true)
+Step 4: Converged:  
 ![STEP 4](/screenshots/STEP4.png?raw=true)
-![STEP 5](/screenshots/STEP5.png?raw=true)
 
 ## Reference
 [http://stanford.edu/~cpiech/cs221/handouts/kmeans.html](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
