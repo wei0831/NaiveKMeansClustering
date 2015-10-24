@@ -16,7 +16,10 @@ Require Visual Studio 2013 / 2015
 - Run **_build_vs2015.bat** to generate VS2015 project
 
 ## Screenshots
-__Input: Initial Step__  
+__Input__  
+![Input](/screenshots/Input.png?raw=true)  
+
+__Initial Step__  
 ![STEP 0](/screenshots/STEP0.png?raw=true)
 
 __Output__  
