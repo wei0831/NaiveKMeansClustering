@@ -36,6 +36,6 @@ Step 4: Converged:
 [http://stanford.edu/~cpiech/cs221/handouts/kmeans.html](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
 
 ## Author
-**[Jack Chang]** : [![endorse](https://api.coderwall.com/wei0831/endorsecount.png)](https://coderwall.com/wei0831)
+**[Jack Chang]**  
 
-[Jack Chang]: https://about.me/wei0831
+[Jack Chang]: https://wei0831.net
