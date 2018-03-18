@@ -34,8 +34,3 @@ Step 4: Converged:
 
 ## Reference
 [http://stanford.edu/~cpiech/cs221/handouts/kmeans.html](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
-
-## Author
-**[Jack Chang]**  
-
-[Jack Chang]: https://wei0831.net
